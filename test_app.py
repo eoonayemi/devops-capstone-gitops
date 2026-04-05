@@ -15,7 +15,7 @@ def test_health(client):
 
 def test_sum(client):
     res = client.post('/sum', json={"a": 5, "b": 10})
-    assert res.get_json()["result"] == 14
+    assert res.get_json()["result"] == 15
 
 
 def test_reverse(client):
