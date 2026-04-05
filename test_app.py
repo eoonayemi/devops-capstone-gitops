@@ -1,3 +1,5 @@
+# Test suite for the Flask API – 8 tests covering health, sum, and reverse-string endpoints
+
 import pytest
 from app import app
 
