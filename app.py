@@ -24,3 +24,6 @@ def reverse_string():
 
 if __name__ == '__main__':
     app.run()
+
+# Add this at the end of app.py — it has a long line which flake8 will catch
+x=1  # bad formatting: no spaces around the equals sign
