@@ -1,3 +1,4 @@
+<!-- Contributing guidelines for the DevOps Capstone GitOps project -->
 # Contributing Guide
 
 ## Development Workflow

@@ -1,3 +1,4 @@
+<!-- DevOps Capstone Project 1 – GitOps Workflow & CI Automation -->
 # DevOps Capstone – GitOps Workflow
 
 ## Project Overview
