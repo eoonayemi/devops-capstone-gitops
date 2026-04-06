@@ -1,3 +1,4 @@
+<!-- Onboarding guide – target: new developer set up in under 1 hour -->
 # Getting Started Guide
 
 Welcome! This guide will get you up and running in under 1 hour.
